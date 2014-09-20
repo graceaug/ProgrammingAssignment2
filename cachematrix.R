@@ -1,5 +1,5 @@
 ## The following two functions attempts to create a matrix to store its inverse and 
-## returns the inverse if it can be found in the cache. 
+## returns the inverse subsequently if it can be found in the cache. 
 ## A new inverse would be calculated and store in cache if the matrix changes.
 
 ## The makeCache function creates a matrix object that caches its inverse.
